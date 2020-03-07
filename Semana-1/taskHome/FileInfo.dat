@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Ejercicio 1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/06/2020 19:47:53</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ejercicio 2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/06/2020 19:53:08</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ejercicio 3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/06/2020 19:56:09</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

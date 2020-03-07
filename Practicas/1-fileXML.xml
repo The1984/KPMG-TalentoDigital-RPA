@@ -1,0 +1,17 @@
+<RegistroCivil>
+	<Persona>
+	<Nombre>Javier</Nombre>
+	<Apellido>Ramos</Apellido>
+	<DNI>37540073</DNI>
+	</Persona>
+	<Persona>
+	<Nombre>Pedro</Nombre>
+	<Apellido>Martinez</Apellido>
+	<DNI>39866023</DNI>
+	</Persona>
+	<Persona>
+	<Nombre>Maria</Nombre>
+	<Apellido>Paz</Apellido>
+	<DNI>98324326</DNI>
+	</Persona>
+</RegistroCivil>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="XML.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 16:54:39</Property>
+      <Property Name="RunDuration">00:01:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ej. con XML.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 17:22:04</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="1-Ej. con XML.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 18:59:31</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="2-Ej. con CSV.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 17:55:06</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="3-Ej. Read Table Internet.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 18:53:52</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="4-Ej. Read Table Internet.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 18:59:56</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="3-Ej. con TXT.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 19:14:19</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="5-Ej. Send Message.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 19:35:57</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

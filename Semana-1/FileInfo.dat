@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Clase3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 16:39:04</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="myFirstBot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 16:04:02</Property>
+      <Property Name="RunDuration">00:00:20</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Loop-Excel.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 16:21:25</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clase2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/07/2020 16:35:37</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
