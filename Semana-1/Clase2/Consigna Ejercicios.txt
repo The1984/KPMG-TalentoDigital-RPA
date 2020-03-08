@@ -1,0 +1,5 @@
+1) Uso de variables y condicionales
+2) Mostrar la fecha de hoy Ej. 15 de Junio de 2020
+3) Crear copiar y zipear Archivos y carpetas
+4) Lectura y escritura de Excel
+5) Setear una celda segun parametro correspodiente al arreglo

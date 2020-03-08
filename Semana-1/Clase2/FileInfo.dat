@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Ej1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 00:44:23</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ej2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 00:44:51</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clase2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 00:47:23</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ej3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 00:47:40</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ej4.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 00:52:43</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Ej5.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 00:57:47</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

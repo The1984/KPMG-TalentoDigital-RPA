@@ -2,15 +2,15 @@
 <Entities>
   <Entity Name="Clase3.atmx">
     <Properties>
-      <Property Name="LastRunTime">03/07/2020 16:39:04</Property>
-      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="LastRunTime">03/07/2020 23:46:23</Property>
+      <Property Name="RunDuration">00:00:23</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="myFirstBot.atmx">
     <Properties>
-      <Property Name="LastRunTime">03/07/2020 16:04:02</Property>
-      <Property Name="RunDuration">00:00:20</Property>
+      <Property Name="LastRunTime">03/08/2020 01:08:03</Property>
+      <Property Name="RunDuration">00:00:14</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -25,6 +25,13 @@
     <Properties>
       <Property Name="LastRunTime">03/07/2020 16:35:37</Property>
       <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Loop-Excel-TaxesGestion.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/08/2020 01:22:25</Property>
+      <Property Name="RunDuration">00:00:39</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>

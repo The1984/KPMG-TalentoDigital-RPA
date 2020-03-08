@@ -1,0 +1,10 @@
+1) Mostrar solo el mes
+2) Mostrar solo el año
+3) Mostrar solo "NOMBRE MES" de "NOMBRE AÑO"
+4) Mostrar la variable con el nombre del mes en mayuscula
+5) Pasar vocales de minuscula a mayuscula con expresion regular y loop
+6a) Al valor "CUATRO               DE        MARZO  DE  DOS MIL VEINTE" dejarlo en "CUATRO DE MARZO DE DOS MIL VEINTE" con subcomando Replace
+6b) Al valor "CUATRO               DE        MARZO  DE  DOS MIL VEINTE" dejarlo en "CUATRO DE MARZO DE DOS MIL VEINTE" con subcomando Loop
+7) Recorrer un array y copiar un array a un excel
+
+
