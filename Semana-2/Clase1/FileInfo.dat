@@ -7,4 +7,11 @@
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
+  <Entity Name="OpenProg-ObjCloning.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/10/2020 23:51:31</Property>
+      <Property Name="RunDuration">00:01:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
 </Entities>

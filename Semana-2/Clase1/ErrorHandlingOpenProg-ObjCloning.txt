@@ -1,0 +1,3 @@
+Line: 7 Description: Unable to perform 'SetText' action. 
+Line: 15 Description: Cannot find window or application titled 'Recibidos - aranibar.javier@gmail.com - Gmail - Google Chrome' that was open during recording.
+Line: 8 Description: Cannot find window or application titled 'Gmail - Google Chrome' that was open during recording.
