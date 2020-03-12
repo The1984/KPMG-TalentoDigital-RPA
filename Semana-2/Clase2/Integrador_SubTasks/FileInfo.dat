@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="cantidadCoupes.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 15:25:01</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ObtenerCantidadCoupes.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 20:17:16</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

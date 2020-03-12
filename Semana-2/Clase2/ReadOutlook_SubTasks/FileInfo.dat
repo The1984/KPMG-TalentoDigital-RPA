@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="ReadFolders.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 19:49:28</Property>
+      <Property Name="RunDuration">00:00:24</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadMessages.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 19:49:30</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="LoginOutlook.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 19:49:04</Property>
+      <Property Name="RunDuration">00:00:38</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

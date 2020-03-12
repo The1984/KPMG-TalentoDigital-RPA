@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="ReadTelefono.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 10:15:18</Property>
+      <Property Name="RunDuration">00:00:30</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadFolderOutlook.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 10:14:18</Property>
+      <Property Name="RunDuration">00:00:17</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="2-ReadFolderOutlook.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 10:45:10</Property>
+      <Property Name="RunDuration">00:00:25</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="1-ReadTelefono.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 11:05:57</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Task2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 11:55:05</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Task1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 11:55:05</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="3-Ej.Integrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 20:17:18</Property>
+      <Property Name="RunDuration">00:00:37</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="1-TaskHijo.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 16:31:53</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="1-TaskPadre.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 16:31:56</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="2-ReadOutlook.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/12/2020 19:49:30</Property>
+      <Property Name="RunDuration">00:01:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
