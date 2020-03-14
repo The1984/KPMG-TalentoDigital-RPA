@@ -44,8 +44,8 @@
   </Entity>
   <Entity Name="3-Ej.Integrador.atmx">
     <Properties>
-      <Property Name="LastRunTime">03/12/2020 20:17:18</Property>
-      <Property Name="RunDuration">00:00:37</Property>
+      <Property Name="LastRunTime">03/13/2020 09:31:08</Property>
+      <Property Name="RunDuration">00:01:56</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>

@@ -9,7 +9,7 @@
   </Entity>
   <Entity Name="ObtenerCantidadCoupes.atmx">
     <Properties>
-      <Property Name="LastRunTime">03/12/2020 20:17:16</Property>
+      <Property Name="LastRunTime">03/13/2020 09:31:01</Property>
       <Property Name="RunDuration">00:00:00</Property>
       <Property Name="Status">Complete</Property>
     </Properties>

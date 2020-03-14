@@ -1,0 +1,8 @@
+Date: 03/14/2020 12:27:56
+Tarea: DescargarTablas
+Estado: Finalizado
+------------------------------------------------
+Date: 03/14/2020 12:28:03
+Tarea: CompletarExcel
+Estado: Finalizado
+------------------------------------------------
